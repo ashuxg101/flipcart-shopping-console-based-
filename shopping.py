@@ -3,7 +3,6 @@
 # Sample product database
 products = {
     "Mobiles": {
-        "iPhone 14": 79999,
         "Samsung Galaxy S23": 69999,
         "Redmi Note 12": 18999
     },
